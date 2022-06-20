@@ -26,7 +26,7 @@ a:hover, a:active {
             <a href="unit_of_activity.php"><font size="5">Unit of Activity</font></a></br></br></center>
 </div>
 <div id="footer">
-        <p><center>Salsabil Aisyah Abdul Halim<br>L200190018</p></center>
+        <p><center>Surya Fajar Himawan<br>L200190067</p></center>
     </div>
 </body>
 </html>
